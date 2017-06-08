@@ -120,6 +120,9 @@
   <note opaque="true" posX="256" posY="160" sizeHeight="64" sizeWidth="257" text="MASTER APRES TAG1">
     <elementParameter field="COLOR" name="NOTE_COLOR" value="237;201;122"/>
   </note>
+  <note opaque="true" posX="256" posY="224" sizeHeight="64" sizeWidth="257" text="GIT !">
+    <elementParameter field="COLOR" name="NOTE_COLOR" value="237;201;122"/>
+  </note>
   <subjob>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tGroovy_1" show="false"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="50;50;250" show="false"/>
