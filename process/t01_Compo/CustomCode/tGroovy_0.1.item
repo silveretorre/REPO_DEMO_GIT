@@ -114,7 +114,11 @@
     <metadata connector="FLOW" name="tGroovy_1"/>
   </node>
   <note opaque="true" posX="32" posY="32" sizeHeight="64" sizeWidth="321" text="Fil manually a groovy script of a component"/>
-  <note opaque="true" posX="256" posY="96" sizeHeight="64" sizeWidth="289" text="MIGRATION GIT - MASTER --> BRANCH1">
+  <note opaque="true" posX="256" posY="96" sizeHeight="64" sizeWidth="321" text="MIGRATION GIT - MASTER --> BRANCH1">
+    <elementParameter field="COLOR" name="NOTE_COLOR" value="155;199;204"/>
+    <elementParameter field="CHECK" name="FONT_ITALIC" value="true"/>
+  </note>
+  <note opaque="true" posX="256" posY="160" sizeHeight="64" sizeWidth="321" text="BRANCH1 APRES MASTER">
     <elementParameter field="COLOR" name="NOTE_COLOR" value="155;199;204"/>
     <elementParameter field="CHECK" name="FONT_ITALIC" value="true"/>
   </note>
