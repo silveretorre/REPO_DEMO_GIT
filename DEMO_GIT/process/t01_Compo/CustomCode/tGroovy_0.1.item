@@ -122,7 +122,7 @@
     <elementParameter field="COLOR" name="NOTE_COLOR" value="155;199;204"/>
     <elementParameter field="CHECK" name="FONT_ITALIC" value="true"/>
   </note>
-  <note opaque="true" posX="256" posY="224" sizeHeight="64" sizeWidth="321" text="GIT !">
+  <note opaque="true" posX="256" posY="224" sizeHeight="64" sizeWidth="321" text="GIT ! UPDATE">
     <elementParameter field="COLOR" name="NOTE_COLOR" value="155;199;204"/>
   </note>
   <subjob>
