@@ -124,7 +124,7 @@
     <elementParameter field="COLOR" name="NOTE_COLOR" value="237;201;122"/>
   </note>
   <note opaque="true" posX="544" posY="96" sizeHeight="64" sizeWidth="161" text="TEST HISTORIQUE"/>
-  <note opaque="true" posX="608" posY="192" sizeHeight="64" sizeWidth="161" text="TEST HISTORIQUE modif pmartin"/>
+  <note opaque="true" posX="544" posY="192" sizeHeight="64" sizeWidth="161" text="TEST HISTORIQUE modif pmartin"/>
   <subjob>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tGroovy_1" show="false"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="50;50;250" show="false"/>
